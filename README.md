@@ -13,7 +13,7 @@ FaceBook report bot are a tool designed to automate the process of reporting acc
 ## 🟢 GET THE TOOL
 <p align="center"> 
   <b>Get the tool:</b><br>
-  <a href="https://shorturl.at/pL6p7"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://shorturl.at/dbcz0"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p> 
 
 ---
